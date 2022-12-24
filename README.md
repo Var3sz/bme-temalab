@@ -1,1 +1,2 @@
-# bme-temalab
+# BME - Témalaboratórium
+
